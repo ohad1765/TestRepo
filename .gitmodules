@@ -1,3 +1,6 @@
 [submodule "P2T2SCND_UnscentedKalmanFilter"]
 	path = P2T2SCND_UnscentedKalmanFilter
 	url = https://github.com/vxy10/P2T2SCND_UnscentedKalmanFilter.git
+[submodule "subTestRepo"]
+	path = subTestRepo
+	url = https://github.com/ohad1765/subTestRepo.git
